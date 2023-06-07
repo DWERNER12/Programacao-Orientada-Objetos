@@ -1,0 +1,15 @@
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\bin\Debug\net6.0\ProvaDeLogica.exe
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\bin\Debug\net6.0\ProvaDeLogica.deps.json
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\bin\Debug\net6.0\ProvaDeLogica.runtimeconfig.json
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\bin\Debug\net6.0\ProvaDeLogica.dll
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\bin\Debug\net6.0\ProvaDeLogica.pdb
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.csproj.AssemblyReference.cache
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.AssemblyInfoInputs.cache
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.AssemblyInfo.cs
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.dll
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\refint\ProvaDeLogica.dll
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.pdb
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ProvaDeLogica.genruntimeconfig.cache
+C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\ProvaDeLogica\ProvaDeLogica\obj\Debug\net6.0\ref\ProvaDeLogica.dll
