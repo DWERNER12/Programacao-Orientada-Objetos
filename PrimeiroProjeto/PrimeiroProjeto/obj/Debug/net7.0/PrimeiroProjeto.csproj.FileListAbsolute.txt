@@ -13,3 +13,18 @@ C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Proj
 C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
 C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
 C:\Users\david\Documentos\C# Completo - Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\david\Repositorios\Programacao-Orientada-Objetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll

@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace PrimeiroProjeto.Classes
 {
-    class Triangulo
+    class Funcionario
     {
-        public double A;
-        public double B;
-        public double C;
+        public string Nome;
+        public double Salario;
     }
 }
