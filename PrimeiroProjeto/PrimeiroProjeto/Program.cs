@@ -180,11 +180,8 @@ namespace PrimeiroProjeto
     //        Console.WriteLine("Medida C:");
     //        y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-    //        double p = (x.A + x.B + x.C) / 2.0;
-    //        double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-    //        p = (y.A + y.B + y.C) / 2.0;
-    //        double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+    //        double areaX = x.Area();
+    //        double areaY = y.Area();
 
     //        Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
     //        Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
@@ -223,29 +220,68 @@ namespace PrimeiroProjeto
     //}
     #endregion
     #region Funcionario 
+    //class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Funcionario f1 = new Funcionario();
+    //        Funcionario f2 = new Funcionario();
+
+    //        Console.WriteLine("Dados do primeiro funcionário:");
+    //        Console.Write("Nome: ");
+    //        f1.Nome = Console.ReadLine();
+
+    //        Console.Write("Salário: ");
+    //        f1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    //        Console.WriteLine("Dados do segundo funcionário:");
+    //        Console.Write("Nome: ");
+    //        f2.Nome = Console.ReadLine();
+
+    //        Console.Write("Salário: ");
+    //        f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    //        double media = (f1.Salario + f2.Salario) / 2.0;
+    //        Console.WriteLine("Salário médio = " + media.ToString("F2", CultureInfo.InvariantCulture));
+    //    }
+    //}
+    #endregion
+    #region
     class Program
     {
         static void Main(string[] args)
         {
-            Funcionario f1 = new Funcionario();
-            Funcionario f2 = new Funcionario();
-           
-            Console.WriteLine("Dados do primeiro funcionário:");
+            Produto p = new Produto();
+            Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
-            f1.Nome = Console.ReadLine();
+            p.Nome = Console.ReadLine();
             
-            Console.Write("Salário: ");
-            f1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Preço: ");
+            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             
-            Console.WriteLine("Dados do segundo funcionário:");
-            Console.Write("Nome: ");
-            f2.Nome = Console.ReadLine();
+            Console.Write("Quantidade no estoque: ");
+            p.Quantidade = int.Parse(Console.ReadLine());
             
-            Console.Write("Salário: ");
-            f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine();
+            Console.WriteLine("Dados do produto: " + p);
+            Console.WriteLine();
             
-            double media = (f1.Salario + f2.Salario) / 2.0;
-            Console.WriteLine("Salário médio = " + media.ToString("F2", CultureInfo.InvariantCulture));
+            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            int qte = int.Parse(Console.ReadLine());
+            
+            p.AdicionarProdutos(qte);
+            
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+            Console.WriteLine();
+            
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            qte = int.Parse(Console.ReadLine());
+            
+            p.RemoverProdutos(qte);
+            
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
         }
     }
     #endregion
